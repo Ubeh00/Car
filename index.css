@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+}
+img{
+    width: 180px;
+    height: 130px;
+    border-radius: 35px;
+}
+h1{
+    font-family: Cambria;
+    color: white;
+}
+p{
+    font-family: Cambria;
+    line-height: 24px;
+    color: white;   
+}
+.bmw{
+    background-color: rgb(244, 152, 46);
+    width: 250px;
+    height: 450px;
+    padding: 2%;
+}
+.lexus{
+    background-color: rgb(22, 100, 99);
+    width: 250px;
+    padding: 2%;
+}
+button{
+    cursor: pointer;
+}
+.edit{
+    font-family: Cambria;
+    font-size: 14px;
+    color: white;
+    background: none;
+    border-color: white;
+    border-radius: 150px;
+    width: 100px;
+    height: 40px;
+}
+
